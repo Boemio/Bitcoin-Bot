@@ -1,5 +1,6 @@
 # Bitcoin Bot
-Esse trabalho foi realizado durante a disciplina de Fundamentos de Ciências de Dados ministrada pelo professor André Carlos Ponce de Leon Ferreira de Carvalho.
+* [Vinícius de Moraes](https://github.com/Boemio)
+* [Raul Ribeiro Teles](https://github.com/raultel) 
 
 ## Proposta do trabalho final
 Criar um programa que seja capaz de prever a direção do mercado Bitcoin nos próximos dias.
