@@ -7,7 +7,7 @@ Criar um programa que seja capaz de prever a direção do mercado Bitcoin nos pr
 ## Como funciona
 Os dados do bitcoin foram retirados diretamente da API da [Binance](https://www.binance.com/en/binance-api).
 
-A análise exploratória dos dados foi realizada com o uso de bibliotecas do Python, nós usamos as seguintes bibliotecas: 
+Bibliotecas usadas durante o trabalho: 
 1. Binance: para importar os dados da API
 2. Datetime: para converter os dados em UNIX para datetime
 3. Matplotlib: para plotar os gráficos
